@@ -1,0 +1,7 @@
+[paths]
+root = "~/lgd"
+bin = "~/lgd/bin"
+projects = "~/lgd/projects"
+
+[defaults]
+python = python3

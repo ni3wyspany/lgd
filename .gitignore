@@ -1,0 +1,17 @@
+cat <<EOF > .gitignore
+# Go
+/bin/
+/dist/
+*.exe
+*.test
+*.out
+
+# OS
+.DS_Store
+
+# LGD
+lgd/
+projects/
+venv/
+.env
+EOF
