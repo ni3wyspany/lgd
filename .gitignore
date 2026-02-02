@@ -9,9 +9,9 @@ cat <<EOF > .gitignore
 # OS
 .DS_Store
 
-# LGD
-lgd/
-projects/
+# LGD runtime (NOT source!)
+/lgd
+/projects/
 venv/
 .env
 EOF
